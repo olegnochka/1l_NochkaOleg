@@ -1,4 +1,4 @@
-//
+// please check it
 //  main.swift
 //  1l_NochkaOleg
 //
